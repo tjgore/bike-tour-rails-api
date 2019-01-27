@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  first_name: Hillary
+  last_name: Peterson
+  image: /image/person.jpg
+  city: New York City
+  state: New York
+  latitude: 9.99
+  longitude: 9.99
+
+two:
+  first_name: jimmy
+  last_name: "Wills"
+  image: image.jpg
+  city: Jersey
+  state: New Jersey
+  latitude: 9.99
+  longitude: 9.99

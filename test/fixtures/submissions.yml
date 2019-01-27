@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  first_name: Krystal
+  last_name: Parker
+  email: kp@email.com
+  slogan: This is a cool race
+
+two:
+  first_name: Joe
+  last_name: Ring
+  email: joe@email.com
+  slogan: First to the Key, First to the egg!
